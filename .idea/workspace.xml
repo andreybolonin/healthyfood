@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c001b2d6-c817-4274-afa2-35fc3a2bb661" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="healthyfood.iws" />
@@ -38,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="739" column="188" selection-start-line="739" selection-start-column="188" selection-end-line="739" selection-end-column="188" />
+            <state relative-caret-position="303">
+              <caret line="749" column="105" selection-start-line="749" selection-start-column="105" selection-end-line="749" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -143,12 +143,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1460381305833</updated>
-      <workItem from="1460381307157" duration="2820000" />
+      <workItem from="1460381307157" duration="3499000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed email">
+      <created>1460434122525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1460434122525</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2820000" />
+    <option name="totallyTimeSpent" value="3499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -176,6 +184,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="fixed email" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed email" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -199,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="739" column="188" selection-start-line="739" selection-start-column="188" selection-end-line="739" selection-end-column="188" />
+        <state relative-caret-position="303">
+          <caret line="749" column="105" selection-start-line="749" selection-start-column="105" selection-end-line="749" selection-end-column="105" />
           <folding />
         </state>
       </provider>

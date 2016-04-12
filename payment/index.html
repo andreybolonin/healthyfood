@@ -873,27 +873,20 @@
     <div class="container">
         <div class="row order-summary">
             <section class="signup-flow payment-info payment-info-container col-xs-12 col-sm-8">
-                <section class="signup-flow payment-info"><h4>Детали Оплаты</h4>
-                    <i class="fa fa-lock pull-right">
-                        <span style="text-transform: none;" class="hidden-xs">&nbsp; Защищено</span>
-                    </i>
+                <section class="signup-flow payment-info">
+                    <h4>Детали Оплаты</h4>
+                    <!--<i class="fa fa-lock pull-right">-->
+                        <!--<span style="text-transform: none;" class="hidden-xs">&nbsp; Защищено</span>-->
+                    <!--</i>-->
                     <hr class="main">
-                    <p>Почти готово! Скажите нам пожалуйста какую карту Вы хотите использовать чтобы начать получать еженедельную доставку.</p>
-                    <form accept-charset="UTF-8" action="https://www.plated.com/sf/home/s/3?offer=foobar"
-                          class="simple_form new_completion" id="home-landing-page-payment-profile-form" method="post"
-                          novalidate="novalidate">
-                        <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input
-                                name="authenticity_token" type="hidden"
-                                value="GhmhZTpfHoe5lf3RiNbhe1RRcpODT0faIdCodn3wwG8="></div>
-                        <div class="row credit-card-input-row">
-                            <div class="input string optional completion_credit_card_number col-xs-12 col-sm-7"
-                                 id="billing_credit_card_number"><label class="string optional control-label"
-                                                                        for="completion_credit_card_number">Номер
-                                карты</label><input class="string optional" id="completion_credit_card_number"
-                                                     name="completion[credit_card_number]" size="30" type="text"></div>
-                            <div class="hidden-xs col-sm-5"><i class="creditcards"></i></div>
-                        </div>
-                        <div class="row credit-card-input-row">
+                    <p>Нажимая на кнопку оплаты Вы будете перемещены на сайт платежной системы. После успешной оплаты Вас автоматически переадреует на заверешение оформления заказа.</p>
+                    <!--<p>Почти готово! Скажите нам пожалуйста какую карту Вы хотите использовать чтобы начать получать еженедельную доставку.</p>-->
+                    <form accept-charset="UTF-8" action="https://www.liqpay.com/api/3/checkout" class="simple_form new_completion" id="home-landing-page-payment-profile-form" method="post" novalidate="novalidate">
+
+                        <input type="hidden" name="data" value="eyAidmVyc2lvbiIgOiAzLCAicHVibGljX2tleSIgOiAieW91cl9wdWJsaWNfa2V5IiwgImFjdGlvbiIgOiAicGF5IiwgImFtb3VudCIgOiAxLCAiY3VycmVuY3kiIDogIlVTRCIsICJkZXNjcmlwdGlvbiIgOiAiZGVzY3JpcHRpb24gdGV4dCIsICJvcmRlcl9pZCIgOiAib3JkZXJfaWRfMSIgfQ=="/>
+                        <input type="hidden" name="signature" value="QvJD5u9Fg55PCx/Hdz6lzWtYwcI="/>
+
+                        <div style="display: none;" class="row credit-card-input-row">
                             <div class="input select optional completion_credit_card_exp_month col-xs-4"
                                  id="billing_credit_card_exp_month"><label class="select optional control-label"
                                                                            for="completion_credit_card_exp_month">Срок действия</label><select
@@ -940,7 +933,7 @@
                                     class="string optional" id="completion_credit_card_cvv"
                                     name="completion[credit_card_cvv]" size="30" type="text"></div>
                         </div>
-                        <div class="row">
+                        <div style="display: none;" class="row">
                             <div class="input hidden completion_terms"><input class="hidden" id="completion_terms"
                                                                               name="completion[terms]" type="hidden"
                                                                               value="1"></div>
@@ -952,7 +945,7 @@
                                                                    type="password"></div>
                         </div>
                         <!--<p><a class="promo-modal-trigger" href="">Have a gift code?</a></p>-->
-                        <div class="row order-summary visible-xs">
+                        <div style="display: none;" class="row order-summary visible-xs">
                             <section class="signup-flow order-summary col-xs-12 col-sm-4">
                                 <div class="graphic-image plated-delivery hidden-xs"></div>
                                 <h4>Order Summary</h4>
@@ -985,13 +978,9 @@
                             Можно пропустить неделю, изменить тарифный план или отменить подписку на шесть дней на странице своей учетной записи
                             или позвонив 050 733 69 53. Вы также соглашаетесь с правилами, условиями и политикой конфиденциальности.
                             <br/>
-                            <a href="https://www.plated.com/terms" class="underline modal-trigger" data-modal="terms">Terms
-                                &amp; Conditions</a> и <a href="https://www.plated.com/privacy"
-                                                            class="underline modal-trigger" data-modal="privacy">Privacy
-                                Policy</a>. </p><br>
-                        <button class="btn btn--tomato btn-block" data-async="true"
-                                id="landing-page-billing-order-button" name="button" type="submit">Оформить Вашу Подписку
-                        </button>
+                            <a href="https://www.plated.com/terms" class="underline modal-trigger" data-modal="terms">Terms&amp; Conditions</a> и <a href="https://www.plated.com/privacy" class="underline modal-trigger" data-modal="privacy">PrivacyPolicy</a>. </p>
+                        <br>
+                        <button class="btn btn--tomato btn-block" id="landing-page-billing-order-button" name="button" type="submit">Оформить Вашу Подписку</button>
                     </form>
                 </section>
             </section>

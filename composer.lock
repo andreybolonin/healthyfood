@@ -4,9 +4,52 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "64c217978da8f1c36dc0f1f448cb6a20",
-    "content-hash": "bc0e6e3087b6732cdd770bf3ee20d3ef",
+    "hash": "b5b91e33ec284d34d36006366eb4c722",
+    "content-hash": "43170880f5763f28896cfbf3d9c5549a",
     "packages": [
+        {
+            "name": "liqpay/liqpay",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/liqpay/sdk-php.git",
+                "reference": "650dbf35d929f82d465903ac44768ec47a0862b5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/liqpay/sdk-php/zipball/650dbf35d929f82d465903ac44768ec47a0862b5",
+                "reference": "650dbf35d929f82d465903ac44768ec47a0862b5",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "./LiqPay.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "OSL 3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Liqpay",
+                    "email": "support@liqpay.com",
+                    "homepage": "https://www.liqpay.com/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "SDK for Liqpay",
+            "homepage": "https://github.com/liqpay/sdk-php",
+            "keywords": [
+                "liqpay",
+                "pay"
+            ],
+            "time": "2016-02-12 14:56:47"
+        },
         {
             "name": "pimple/pimple",
             "version": "v1.1.1",
@@ -553,12 +596,75 @@
                 "url"
             ],
             "time": "2016-03-23 13:23:25"
+        },
+        {
+            "name": "twig/twig",
+            "version": "v1.24.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/twigphp/Twig.git",
+                "reference": "3e5aa30ebfbafd5951fb1b01e338e1800ce7e0e8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/3e5aa30ebfbafd5951fb1b01e338e1800ce7e0e8",
+                "reference": "3e5aa30ebfbafd5951fb1b01e338e1800ce7e0e8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.7"
+            },
+            "require-dev": {
+                "symfony/debug": "~2.7",
+                "symfony/phpunit-bridge": "~2.7"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.24-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Twig_": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com",
+                    "homepage": "http://fabien.potencier.org",
+                    "role": "Lead Developer"
+                },
+                {
+                    "name": "Armin Ronacher",
+                    "email": "armin.ronacher@active-4.com",
+                    "role": "Project Founder"
+                },
+                {
+                    "name": "Twig Team",
+                    "homepage": "http://twig.sensiolabs.org/contributors",
+                    "role": "Contributors"
+                }
+            ],
+            "description": "Twig, the flexible, fast, and secure template language for PHP",
+            "homepage": "http://twig.sensiolabs.org",
+            "keywords": [
+                "templating"
+            ],
+            "time": "2016-01-25 21:22:18"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "liqpay/liqpay": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

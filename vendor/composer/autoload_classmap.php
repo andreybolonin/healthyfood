@@ -6,4 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'LiqPay' => $vendorDir . '/liqpay/liqpay/LiqPay.php',
 );

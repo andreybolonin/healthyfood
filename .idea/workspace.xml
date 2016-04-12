@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c001b2d6-c817-4274-afa2-35fc3a2bb661" name="Default" comment="fixed email">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="c001b2d6-c817-4274-afa2-35fc3a2bb661" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/--.html" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/--.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/0" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/0" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/0(1)" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/0(1)" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/209162918.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/209162918.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/366738.gif" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/366738.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/38e2ccaa-d76f-41f0-bd15-61cee13b0dc3.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/38e2ccaa-d76f-41f0-bd15-61cee13b0dc3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/ChangeMonitor-latest.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/ChangeMonitor-latest.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/NaN_tracker.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/NaN_tracker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/WRf4.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/WRf4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/analytics.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/analytics.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/analytics.min.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/analytics.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/aquant.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/aquant.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/avatar_simple_visitor.png" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/avatar_simple_visitor.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/b0f18ab7c9" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/b0f18ab7c9" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/bat.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/bat.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/bugsnag-2.min.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/bugsnag-2.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/conversion_async.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/conversion_async.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/event.php" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/event.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/exj.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/exj.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/fbevents.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/fbevents.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/flow-header-footer-55104cbbffd854115a6a615003bccba3.css" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/flow-header-footer-55104cbbffd854115a6a615003bccba3.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/gtm.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/gtm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/haystack-2554695171e90932a2c2bca952fe7e60.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/haystack-2554695171e90932a2c2bca952fe7e60.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/haystack-89230238a008c1de6e517d15629f5225.css" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/haystack-89230238a008c1de6e517d15629f5225.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/haystackhome-11bd8bb15a100cf050d7180c7cf1c35e.css" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/haystackhome-11bd8bb15a100cf050d7180c7cf1c35e.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/hit" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/hit" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/home-07cd9d9b6d0308ea81b6f57d0071be90.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/home-07cd9d9b6d0308ea81b6f57d0071be90.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/home-afdf69153284d6e2b39a95c61fa58d25.css" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/home-afdf69153284d6e2b39a95c61fa58d25.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/landing_pages_common-234a4040bef7369c34aa8a04d025eec4.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/landing_pages_common-234a4040bef7369c34aa8a04d025eec4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/live.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/live.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/normalize.css" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/nr-918.min.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/nr-918.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/oct.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/oct.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/pattern_library-01713f2ec141aa982d8068e6276d48ab.css" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/pattern_library-01713f2ec141aa982d8068e6276d48ab.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/plated_logo-e758365f27003a37f1f5d80883742fce.svg" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/plated_logo-e758365f27003a37f1f5d80883742fce.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/quant.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/quant.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/saved_resource" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/saved_resource" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/Plated _ Cook more. Live better._files/tfa.js" afterPath="$PROJECT_DIR$/tariff/Plated _ Cook more. Live better._files/tfa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/order/index.html" afterPath="$PROJECT_DIR$/tariff/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delivery/index.html" afterPath="$PROJECT_DIR$/delivery/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payment/index.html" afterPath="$PROJECT_DIR$/payment/index.html" />
     </list>
     <ignored path="healthyfood.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,19 +79,54 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="749" column="105" selection-start-line="749" selection-start-column="105" selection-end-line="749" selection-end-column="105" />
+            <state relative-caret-position="177">
+              <caret line="704" column="46" selection-start-line="704" selection-start-column="46" selection-end-line="704" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/payment/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="36">
+              <caret line="578" column="65" selection-start-line="578" selection-start-column="65" selection-end-line="578" selection-end-column="65" />
+              <folding>
+                <marker date="1460435304609" expanded="true" signature="36844:36888" placeholder="..." />
+                <marker date="1460435304609" expanded="true" signature="37005:37049" placeholder="..." />
+                <marker date="1460435304609" expanded="true" signature="37153:37197" placeholder="..." />
+                <marker date="1460435304609" expanded="true" signature="37342:37386" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/delivery/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="579" column="65" selection-start-line="579" selection-start-column="65" selection-end-line="579" selection-end-column="65" />
+              <folding>
+                <marker date="1460435326832" expanded="true" signature="37361:37405" placeholder="..." />
+                <marker date="1460435326832" expanded="true" signature="37522:37566" placeholder="..." />
+                <marker date="1460435326832" expanded="true" signature="37670:37714" placeholder="..." />
+                <marker date="1460435326832" expanded="true" signature="37859:37903" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tariff/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="579" column="4" selection-start-line="579" selection-start-column="4" selection-end-line="579" selection-end-column="65" />
+              <folding>
+                <marker date="1460435226881" expanded="true" signature="37380:37424" placeholder="..." />
+                <marker date="1460435226881" expanded="true" signature="37541:37585" placeholder="..." />
+                <marker date="1460435226881" expanded="true" signature="37689:37733" placeholder="..." />
+                <marker date="1460435226881" expanded="true" signature="37878:37922" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,8 +139,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/tariff/index.html" />
+        <option value="$PROJECT_DIR$/payment/index.html" />
+        <option value="$PROJECT_DIR$/delivery/index.html" />
       </list>
     </option>
   </component>
@@ -125,6 +204,48 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healthyfood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healthyfood" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tariff" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healthyfood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healthyfood" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="payment" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healthyfood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healthyfood" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delivery" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -133,6 +254,32 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -144,7 +291,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1460381305833</updated>
-      <workItem from="1460381307157" duration="3982000" />
+      <workItem from="1460381307157" duration="4703000" />
     </task>
     <task id="LOCAL-00001" summary="fixed email">
       <created>1460434122525</created>
@@ -160,17 +307,24 @@
       <option name="project" value="LOCAL" />
       <updated>1460434179655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added gitignore">
+      <created>1460434668635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1460434668635</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3982000" />
+    <option name="totallyTimeSpent" value="4703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25418326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25418326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -196,7 +350,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="fixed email" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed email" />
+    <MESSAGE value="added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -211,19 +366,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="749" column="105" selection-start-line="749" selection-start-column="105" selection-end-line="749" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tariff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="579" column="4" selection-start-line="579" selection-start-column="4" selection-end-line="579" selection-end-column="65" />
+          <folding>
+            <marker date="1460435226881" expanded="true" signature="37380:37424" placeholder="..." />
+            <marker date="1460435226881" expanded="true" signature="37541:37585" placeholder="..." />
+            <marker date="1460435226881" expanded="true" signature="37689:37733" placeholder="..." />
+            <marker date="1460435226881" expanded="true" signature="37878:37922" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="704" column="46" selection-start-line="704" selection-start-column="46" selection-end-line="704" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="578" column="65" selection-start-line="578" selection-start-column="65" selection-end-line="578" selection-end-column="65" />
+          <folding>
+            <marker date="1460435304609" expanded="true" signature="36844:36888" placeholder="..." />
+            <marker date="1460435304609" expanded="true" signature="37005:37049" placeholder="..." />
+            <marker date="1460435304609" expanded="true" signature="37153:37197" placeholder="..." />
+            <marker date="1460435304609" expanded="true" signature="37342:37386" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delivery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="579" column="65" selection-start-line="579" selection-start-column="65" selection-end-line="579" selection-end-column="65" />
+          <folding>
+            <marker date="1460435326832" expanded="true" signature="37361:37405" placeholder="..." />
+            <marker date="1460435326832" expanded="true" signature="37522:37566" placeholder="..." />
+            <marker date="1460435326832" expanded="true" signature="37670:37714" placeholder="..." />
+            <marker date="1460435326832" expanded="true" signature="37859:37903" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

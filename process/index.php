@@ -19,9 +19,10 @@ $app->get('/', function() use($app) {
         'currency' => 'UAH',
         'description' => 'test description',
         'order_id' => 'test order_id',
-        'sandbox' => 1
+        'sandbox' => 1,
+        'language' => 'ru'
     ));
-    
+
     return $html;
 
     $json_string = [

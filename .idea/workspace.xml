@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c001b2d6-c817-4274-afa2-35fc3a2bb661" name="Default" comment="fixed payment">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/0(1)" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/366738.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/avatar_simple_visitor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/--.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/209162918.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/38e2ccaa-d76f-41f0-bd15-61cee13b0dc3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/ChangeMonitor-latest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/NaN_tracker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/WRf4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/analytics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/analytics.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/aquant.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/b0f18ab7c9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/bat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/bugsnag-2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/conversion_async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/event.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/exj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/fbevents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/flow-header-footer-55104cbbffd854115a6a615003bccba3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/gtm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/haystack-2554695171e90932a2c2bca952fe7e60.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/haystack-89230238a008c1de6e517d15629f5225.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/haystackhome-11bd8bb15a100cf050d7180c7cf1c35e.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/hit" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/home-07cd9d9b6d0308ea81b6f57d0071be90.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/home-afdf69153284d6e2b39a95c61fa58d25.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/landing_pages_common-234a4040bef7369c34aa8a04d025eec4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/live.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/nr-918.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/oct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/pattern_library-01713f2ec141aa982d8068e6276d48ab.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/plated_logo-e758365f27003a37f1f5d80883742fce.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/quant.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/saved_resource" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/payment_onetime/payment_files/tfa.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delivery/index.html" afterPath="$PROJECT_DIR$/delivery/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payment/index.html" afterPath="$PROJECT_DIR$/payment/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tariff/index.html" afterPath="$PROJECT_DIR$/tariff/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/process/index.php" afterPath="$PROJECT_DIR$/process/index.php" />
     </list>
     <ignored path="healthyfood.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,14 +45,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/payment/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="16200">
               <caret line="981" column="28" selection-start-line="981" selection-start-column="28" selection-end-line="981" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#input#0;n#div#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -102,8 +63,6 @@
                 <marker date="1460463735162" expanded="true" signature="37153:37197" placeholder="..." />
                 <marker date="1460463735162" expanded="true" signature="37342:37386" placeholder="..." />
                 <marker date="1460463735162" expanded="false" signature="43109:43130" placeholder="..." />
-                <marker date="1460463735162" expanded="false" signature="44277:47866" placeholder="..." />
-                <marker date="1460463735162" expanded="false" signature="47931:48943" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -112,7 +71,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/delivery/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="17028">
               <caret line="946" column="83" selection-start-line="946" selection-start-column="83" selection-end-line="946" selection-end-column="83" />
               <folding>
                 <marker date="1460463614001" expanded="true" signature="37361:37405" placeholder="..." />
@@ -127,7 +86,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/payment_onetime/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="20016">
               <caret line="1112" column="154" selection-start-line="1112" selection-start-column="152" selection-end-line="1112" selection-end-column="154" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -141,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/process/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="221">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -154,7 +113,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tariff/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="15300">
               <caret line="850" column="17" selection-start-line="850" selection-start-column="17" selection-end-line="850" selection-end-column="17" />
               <folding>
                 <marker date="1460459008168" expanded="true" signature="37380:37424" placeholder="..." />
@@ -169,7 +128,7 @@
       <file leaf-file-name="LiqPay.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/liqpay/liqpay/LiqPay.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-211">
+            <state relative-caret-position="468">
               <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
               <folding>
                 <marker date="1460441334445" expanded="true" signature="3234:3397" placeholder="..." />
@@ -191,11 +150,11 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/composer.lock" />
         <option value="$PROJECT_DIR$/app.php" />
-        <option value="$PROJECT_DIR$/process/index.php" />
         <option value="$PROJECT_DIR$/tariff/index.html" />
         <option value="$PROJECT_DIR$/payment_onetime/index.html" />
         <option value="$PROJECT_DIR$/delivery/index.html" />
         <option value="$PROJECT_DIR$/payment/index.html" />
+        <option value="$PROJECT_DIR$/process/index.php" />
       </list>
     </option>
   </component>
@@ -204,6 +163,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -237,6 +199,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -279,7 +243,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="payment_onetime" />
+              <option name="myItemId" value="process" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -293,19 +257,18 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="delivery" />
+              <option name="myItemId" value="payment_onetime" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../healthmarketing" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="open&#9;ACTION&#9;OpenFile" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -351,6 +314,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c001b2d6-c817-4274-afa2-35fc3a2bb661" name="Default" comment="" />
@@ -359,7 +325,11 @@
       <option name="presentableId" value="Default" />
       <updated>1460381305833</updated>
       <workItem from="1460381307157" duration="6091000" />
-      <workItem from="1460441066513" duration="11566000" />
+      <workItem from="1460441066513" duration="15760000" />
+      <workItem from="1460533809123" duration="2450000" />
+      <workItem from="1460627790160" duration="293000" />
+      <workItem from="1460634407373" duration="40000" />
+      <workItem from="1460637955232" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="fixed email">
       <created>1460434122525</created>
@@ -417,17 +387,24 @@
       <option name="project" value="LOCAL" />
       <updated>1460456981994</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fixed payment">
+      <created>1460465128828</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1460465128828</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17657000" />
+    <option name="totallyTimeSpent" value="25384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25418326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27171314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -445,6 +422,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -473,11 +458,363 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16200">
+          <caret line="981" column="28" selection-start-line="981" selection-start-column="28" selection-end-line="981" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#input#0;n#div#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1460463735162" expanded="true" signature="36844:36888" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37005:37049" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37153:37197" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37342:37386" placeholder="..." />
+            <marker date="1460463735162" expanded="false" signature="43109:43130" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delivery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17028">
+          <caret line="946" column="83" selection-start-line="946" selection-start-column="83" selection-end-line="946" selection-end-column="83" />
+          <folding>
+            <marker date="1460463614001" expanded="true" signature="37361:37405" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37522:37566" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37670:37714" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37859:37903" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment_onetime/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20016">
+          <caret line="1112" column="154" selection-start-line="1112" selection-start-column="152" selection-end-line="1112" selection-end-column="154" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1460463547925" expanded="true" signature="36844:36888" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37005:37049" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37153:37197" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37342:37386" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="50713:51762" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16200">
+          <caret line="981" column="28" selection-start-line="981" selection-start-column="28" selection-end-line="981" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#input#0;n#div#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1460463735162" expanded="true" signature="36844:36888" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37005:37049" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37153:37197" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37342:37386" placeholder="..." />
+            <marker date="1460463735162" expanded="false" signature="43109:43130" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delivery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17028">
+          <caret line="946" column="83" selection-start-line="946" selection-start-column="83" selection-end-line="946" selection-end-column="83" />
+          <folding>
+            <marker date="1460463614001" expanded="true" signature="37361:37405" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37522:37566" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37670:37714" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37859:37903" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment_onetime/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20016">
+          <caret line="1112" column="154" selection-start-line="1112" selection-start-column="152" selection-end-line="1112" selection-end-column="154" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1460463547925" expanded="true" signature="36844:36888" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37005:37049" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37153:37197" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37342:37386" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="50713:51762" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tariff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15300">
+          <caret line="850" column="17" selection-start-line="850" selection-start-column="17" selection-end-line="850" selection-end-column="17" />
+          <folding>
+            <marker date="1460459008168" expanded="true" signature="37380:37424" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37541:37585" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37689:37733" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37878:37922" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/liqpay/liqpay/LiqPay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <marker date="1460441334445" expanded="true" signature="3234:3397" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16200">
+          <caret line="981" column="28" selection-start-line="981" selection-start-column="28" selection-end-line="981" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#input#0;n#div#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1460463735162" expanded="true" signature="36844:36888" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37005:37049" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37153:37197" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37342:37386" placeholder="..." />
+            <marker date="1460463735162" expanded="false" signature="43109:43130" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delivery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17028">
+          <caret line="946" column="83" selection-start-line="946" selection-start-column="83" selection-end-line="946" selection-end-column="83" />
+          <folding>
+            <marker date="1460463614001" expanded="true" signature="37361:37405" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37522:37566" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37670:37714" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37859:37903" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment_onetime/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20016">
+          <caret line="1112" column="154" selection-start-line="1112" selection-start-column="152" selection-end-line="1112" selection-end-column="154" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1460463547925" expanded="true" signature="36844:36888" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37005:37049" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37153:37197" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37342:37386" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="50713:51762" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tariff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15300">
+          <caret line="850" column="17" selection-start-line="850" selection-start-column="17" selection-end-line="850" selection-end-column="17" />
+          <folding>
+            <marker date="1460459008168" expanded="true" signature="37380:37424" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37541:37585" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37689:37733" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37878:37922" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/liqpay/liqpay/LiqPay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <marker date="1460441334445" expanded="true" signature="3234:3397" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16200">
+          <caret line="981" column="28" selection-start-line="981" selection-start-column="28" selection-end-line="981" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#input#0;n#div#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1460463735162" expanded="true" signature="36844:36888" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37005:37049" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37153:37197" placeholder="..." />
+            <marker date="1460463735162" expanded="true" signature="37342:37386" placeholder="..." />
+            <marker date="1460463735162" expanded="false" signature="43109:43130" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delivery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17028">
+          <caret line="946" column="83" selection-start-line="946" selection-start-column="83" selection-end-line="946" selection-end-column="83" />
+          <folding>
+            <marker date="1460463614001" expanded="true" signature="37361:37405" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37522:37566" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37670:37714" placeholder="..." />
+            <marker date="1460463614001" expanded="true" signature="37859:37903" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment_onetime/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20016">
+          <caret line="1112" column="154" selection-start-line="1112" selection-start-column="152" selection-end-line="1112" selection-end-column="154" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1460463547925" expanded="true" signature="36844:36888" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37005:37049" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37153:37197" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="37342:37386" placeholder="..." />
+            <marker date="1460463547925" expanded="true" signature="50713:51762" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tariff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15300">
+          <caret line="850" column="17" selection-start-line="850" selection-start-column="17" selection-end-line="850" selection-end-column="17" />
+          <folding>
+            <marker date="1460459008168" expanded="true" signature="37380:37424" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37541:37585" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37689:37733" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37878:37922" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/liqpay/liqpay/LiqPay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <marker date="1460441334445" expanded="true" signature="3234:3397" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12672">
           <caret line="704" column="46" selection-start-line="704" selection-start-column="46" selection-end-line="704" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,7 +824,9 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#input#0;n#div#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -496,8 +835,6 @@
             <marker date="1460463735162" expanded="true" signature="37153:37197" placeholder="..." />
             <marker date="1460463735162" expanded="true" signature="37342:37386" placeholder="..." />
             <marker date="1460463735162" expanded="false" signature="43109:43130" placeholder="..." />
-            <marker date="1460463735162" expanded="false" signature="44277:47866" placeholder="..." />
-            <marker date="1460463735162" expanded="false" signature="47931:48943" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -532,18 +869,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12672">
           <caret line="704" column="46" selection-start-line="704" selection-start-column="46" selection-end-line="704" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/composer2.json" />
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -556,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-972">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,40 +896,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/liqpay/liqpay/LiqPay.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-211">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <marker date="1460441334445" expanded="true" signature="3234:3397" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/process/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tariff/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="850" column="17" selection-start-line="850" selection-start-column="17" selection-end-line="850" selection-end-column="17" />
-          <folding>
-            <marker date="1460459008168" expanded="true" signature="37380:37424" placeholder="..." />
-            <marker date="1460459008168" expanded="true" signature="37541:37585" placeholder="..." />
-            <marker date="1460459008168" expanded="true" signature="37689:37733" placeholder="..." />
-            <marker date="1460459008168" expanded="true" signature="37878:37922" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/payment_onetime/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="20016">
           <caret line="1112" column="154" selection-start-line="1112" selection-start-column="152" selection-end-line="1112" selection-end-column="154" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -616,7 +913,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/delivery/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
+        <state relative-caret-position="17028">
           <caret line="946" column="83" selection-start-line="946" selection-start-column="83" selection-end-line="946" selection-end-column="83" />
           <folding>
             <marker date="1460463614001" expanded="true" signature="37361:37405" placeholder="..." />
@@ -629,11 +926,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/payment/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="16200">
           <caret line="981" column="28" selection-start-line="981" selection-start-column="28" selection-end-line="981" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#input#0;n#div#0;n#div#1;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#2;n#form#0;n#section#0;n#section#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -642,8 +941,37 @@
             <marker date="1460463735162" expanded="true" signature="37153:37197" placeholder="..." />
             <marker date="1460463735162" expanded="true" signature="37342:37386" placeholder="..." />
             <marker date="1460463735162" expanded="false" signature="43109:43130" placeholder="..." />
-            <marker date="1460463735162" expanded="false" signature="44277:47866" placeholder="..." />
-            <marker date="1460463735162" expanded="false" signature="47931:48943" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tariff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15300">
+          <caret line="850" column="17" selection-start-line="850" selection-start-column="17" selection-end-line="850" selection-end-column="17" />
+          <folding>
+            <marker date="1460459008168" expanded="true" signature="37380:37424" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37541:37585" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37689:37733" placeholder="..." />
+            <marker date="1460459008168" expanded="true" signature="37878:37922" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/liqpay/liqpay/LiqPay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <marker date="1460441334445" expanded="true" signature="3234:3397" placeholder="..." />
           </folding>
         </state>
       </provider>

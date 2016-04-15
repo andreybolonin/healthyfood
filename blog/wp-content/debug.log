@@ -1,2 +1,100 @@
 [12-Apr-2016 04:07:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_popular_posts_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-popular-posts.php on line 6
 [12-Apr-2016 04:07:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_social_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-social.php on line 7
+[13-Apr-2016 06:52:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_popular_posts_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-popular-posts.php on line 6
+[13-Apr-2016 06:52:03 UTC] PHP Stack trace:
+[13-Apr-2016 06:52:03 UTC] PHP   1. {main}() /var/www/healthyfood/blog/index.php:0
+[13-Apr-2016 06:52:03 UTC] PHP   2. require() /var/www/healthyfood/blog/index.php:17
+[13-Apr-2016 06:52:03 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-blog-header.php:12
+[13-Apr-2016 06:52:03 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[13-Apr-2016 06:52:03 UTC] PHP   5. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[13-Apr-2016 06:52:03 UTC] PHP   6. include() /var/www/healthyfood/blog/wp-settings.php:368
+[13-Apr-2016 06:52:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_social_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-social.php on line 7
+[13-Apr-2016 06:52:03 UTC] PHP Stack trace:
+[13-Apr-2016 06:52:03 UTC] PHP   1. {main}() /var/www/healthyfood/blog/index.php:0
+[13-Apr-2016 06:52:03 UTC] PHP   2. require() /var/www/healthyfood/blog/index.php:17
+[13-Apr-2016 06:52:03 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-blog-header.php:12
+[13-Apr-2016 06:52:03 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[13-Apr-2016 06:52:03 UTC] PHP   5. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[13-Apr-2016 06:52:03 UTC] PHP   6. include() /var/www/healthyfood/blog/wp-settings.php:368
+[14-Apr-2016 07:01:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_popular_posts_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-popular-posts.php on line 6
+[14-Apr-2016 07:01:35 UTC] PHP Stack trace:
+[14-Apr-2016 07:01:35 UTC] PHP   1. {main}() /var/www/healthyfood/blog/index.php:0
+[14-Apr-2016 07:01:35 UTC] PHP   2. require() /var/www/healthyfood/blog/index.php:17
+[14-Apr-2016 07:01:35 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-blog-header.php:13
+[14-Apr-2016 07:01:35 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[14-Apr-2016 07:01:35 UTC] PHP   5. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[14-Apr-2016 07:01:35 UTC] PHP   6. include() /var/www/healthyfood/blog/wp-settings.php:369
+[14-Apr-2016 07:01:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_social_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-social.php on line 7
+[14-Apr-2016 07:01:35 UTC] PHP Stack trace:
+[14-Apr-2016 07:01:35 UTC] PHP   1. {main}() /var/www/healthyfood/blog/index.php:0
+[14-Apr-2016 07:01:35 UTC] PHP   2. require() /var/www/healthyfood/blog/index.php:17
+[14-Apr-2016 07:01:35 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-blog-header.php:13
+[14-Apr-2016 07:01:35 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[14-Apr-2016 07:01:35 UTC] PHP   5. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[14-Apr-2016 07:01:35 UTC] PHP   6. include() /var/www/healthyfood/blog/wp-settings.php:369
+[14-Apr-2016 07:13:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_popular_posts_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-popular-posts.php on line 6
+[14-Apr-2016 07:13:32 UTC] PHP Stack trace:
+[14-Apr-2016 07:13:32 UTC] PHP   1. {main}() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:0
+[14-Apr-2016 07:13:32 UTC] PHP   2. require_once() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:22
+[14-Apr-2016 07:13:32 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[14-Apr-2016 07:13:32 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[14-Apr-2016 07:13:32 UTC] PHP   5. include() /var/www/healthyfood/blog/wp-settings.php:369
+[14-Apr-2016 07:13:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_social_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-social.php on line 7
+[14-Apr-2016 07:13:32 UTC] PHP Stack trace:
+[14-Apr-2016 07:13:32 UTC] PHP   1. {main}() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:0
+[14-Apr-2016 07:13:32 UTC] PHP   2. require_once() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:22
+[14-Apr-2016 07:13:32 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[14-Apr-2016 07:13:32 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[14-Apr-2016 07:13:32 UTC] PHP   5. include() /var/www/healthyfood/blog/wp-settings.php:369
+[15-Apr-2016 02:08:24 UTC] PHP Notice:  Trying to get property of non-object in /var/www/healthyfood/blog/wp-content/themes/dazzling/header.php on line 70
+[15-Apr-2016 02:08:24 UTC] PHP Stack trace:
+[15-Apr-2016 02:08:24 UTC] PHP   1. {main}() /var/www/healthyfood/blog/index.php:0
+[15-Apr-2016 02:08:24 UTC] PHP   2. require() /var/www/healthyfood/blog/index.php:17
+[15-Apr-2016 02:08:24 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-blog-header.php:19
+[15-Apr-2016 02:08:24 UTC] PHP   4. include() /var/www/healthyfood/blog/wp-includes/template-loader.php:75
+[15-Apr-2016 02:08:24 UTC] PHP   5. get_header() /var/www/healthyfood/blog/wp-content/themes/dazzling/404.php:8
+[15-Apr-2016 02:08:24 UTC] PHP   6. locate_template() /var/www/healthyfood/blog/wp-includes/general-template.php:45
+[15-Apr-2016 02:08:24 UTC] PHP   7. load_template() /var/www/healthyfood/blog/wp-includes/template.php:531
+[15-Apr-2016 02:08:24 UTC] PHP   8. require_once() /var/www/healthyfood/blog/wp-includes/template.php:572
+[15-Apr-2016 02:18:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_popular_posts_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-popular-posts.php on line 6
+[15-Apr-2016 02:18:23 UTC] PHP Stack trace:
+[15-Apr-2016 02:18:23 UTC] PHP   1. {main}() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:0
+[15-Apr-2016 02:18:23 UTC] PHP   2. require_once() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:22
+[15-Apr-2016 02:18:23 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[15-Apr-2016 02:18:23 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[15-Apr-2016 02:18:23 UTC] PHP   5. include() /var/www/healthyfood/blog/wp-settings.php:369
+[15-Apr-2016 02:18:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_social_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-social.php on line 7
+[15-Apr-2016 02:18:23 UTC] PHP Stack trace:
+[15-Apr-2016 02:18:23 UTC] PHP   1. {main}() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:0
+[15-Apr-2016 02:18:23 UTC] PHP   2. require_once() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:22
+[15-Apr-2016 02:18:23 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[15-Apr-2016 02:18:23 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[15-Apr-2016 02:18:23 UTC] PHP   5. include() /var/www/healthyfood/blog/wp-settings.php:369
+[15-Apr-2016 02:57:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_popular_posts_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-popular-posts.php on line 6
+[15-Apr-2016 02:57:34 UTC] PHP Stack trace:
+[15-Apr-2016 02:57:34 UTC] PHP   1. {main}() /var/www/healthyfood/blog/wp-login.php:0
+[15-Apr-2016 02:57:34 UTC] PHP   2. require() /var/www/healthyfood/blog/wp-login.php:12
+[15-Apr-2016 02:57:34 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[15-Apr-2016 02:57:34 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[15-Apr-2016 02:57:34 UTC] PHP   5. include() /var/www/healthyfood/blog/wp-settings.php:369
+[15-Apr-2016 02:57:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_social_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-social.php on line 7
+[15-Apr-2016 02:57:34 UTC] PHP Stack trace:
+[15-Apr-2016 02:57:34 UTC] PHP   1. {main}() /var/www/healthyfood/blog/wp-login.php:0
+[15-Apr-2016 02:57:34 UTC] PHP   2. require() /var/www/healthyfood/blog/wp-login.php:12
+[15-Apr-2016 02:57:34 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[15-Apr-2016 02:57:34 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[15-Apr-2016 02:57:34 UTC] PHP   5. include() /var/www/healthyfood/blog/wp-settings.php:369
+[15-Apr-2016 03:30:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_popular_posts_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-popular-posts.php on line 6
+[15-Apr-2016 03:30:13 UTC] PHP Stack trace:
+[15-Apr-2016 03:30:13 UTC] PHP   1. {main}() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:0
+[15-Apr-2016 03:30:13 UTC] PHP   2. require_once() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:22
+[15-Apr-2016 03:30:13 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[15-Apr-2016 03:30:13 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[15-Apr-2016 03:30:13 UTC] PHP   5. include() /var/www/healthyfood/blog/wp-settings.php:369
+[15-Apr-2016 03:30:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; dazzling_social_widget has a deprecated constructor in /var/www/healthyfood/blog/wp-content/themes/dazzling/inc/widgets/widget-social.php on line 7
+[15-Apr-2016 03:30:13 UTC] PHP Stack trace:
+[15-Apr-2016 03:30:13 UTC] PHP   1. {main}() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:0
+[15-Apr-2016 03:30:13 UTC] PHP   2. require_once() /var/www/healthyfood/blog/wp-admin/admin-ajax.php:22
+[15-Apr-2016 03:30:13 UTC] PHP   3. require_once() /var/www/healthyfood/blog/wp-load.php:37
+[15-Apr-2016 03:30:13 UTC] PHP   4. require_once() /var/www/healthyfood/blog/wp-config.php:99
+[15-Apr-2016 03:30:13 UTC] PHP   5. include() /var/www/healthyfood/blog/wp-settings.php:369

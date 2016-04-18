@@ -158,3 +158,36 @@
 [15-Apr-2016 05:27:28 UTC] PHP   6. locate_template() /var/www/healthyfood/wp-includes/general-template.php:45
 [15-Apr-2016 05:27:28 UTC] PHP   7. load_template() /var/www/healthyfood/wp-includes/template.php:531
 [15-Apr-2016 05:27:28 UTC] PHP   8. require_once() /var/www/healthyfood/wp-includes/template.php:572
+[15-Apr-2016 07:48:25 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /home/andreybolonin/www/healthyfood/wp-includes/wp-db.php on line 1489
+[15-Apr-2016 07:48:25 UTC] PHP Stack trace:
+[15-Apr-2016 07:48:25 UTC] PHP   1. {main}() /home/andreybolonin/www/healthyfood/index.php:0
+[15-Apr-2016 07:48:25 UTC] PHP   2. require() /home/andreybolonin/www/healthyfood/index.php:17
+[15-Apr-2016 07:48:25 UTC] PHP   3. require_once() /home/andreybolonin/www/healthyfood/wp-blog-header.php:13
+[15-Apr-2016 07:48:25 UTC] PHP   4. require_once() /home/andreybolonin/www/healthyfood/wp-load.php:37
+[15-Apr-2016 07:48:25 UTC] PHP   5. require_once() /home/andreybolonin/www/healthyfood/wp-config.php:99
+[15-Apr-2016 07:48:25 UTC] PHP   6. require_wp_db() /home/andreybolonin/www/healthyfood/wp-settings.php:88
+[15-Apr-2016 07:48:25 UTC] PHP   7. wpdb->__construct() /home/andreybolonin/www/healthyfood/wp-includes/load.php:371
+[15-Apr-2016 07:48:25 UTC] PHP   8. wpdb->db_connect() /home/andreybolonin/www/healthyfood/wp-includes/wp-db.php:658
+[15-Apr-2016 07:48:25 UTC] PHP   9. mysqli_real_connect() /home/andreybolonin/www/healthyfood/wp-includes/wp-db.php:1489
+[15-Apr-2016 07:48:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /home/andreybolonin/www/healthyfood/wp-includes/wp-db.php on line 1489
+[15-Apr-2016 07:48:33 UTC] PHP Stack trace:
+[15-Apr-2016 07:48:33 UTC] PHP   1. {main}() /home/andreybolonin/www/healthyfood/index.php:0
+[15-Apr-2016 07:48:33 UTC] PHP   2. require() /home/andreybolonin/www/healthyfood/index.php:17
+[15-Apr-2016 07:48:33 UTC] PHP   3. require_once() /home/andreybolonin/www/healthyfood/wp-blog-header.php:13
+[15-Apr-2016 07:48:33 UTC] PHP   4. require_once() /home/andreybolonin/www/healthyfood/wp-load.php:37
+[15-Apr-2016 07:48:33 UTC] PHP   5. require_once() /home/andreybolonin/www/healthyfood/wp-config.php:99
+[15-Apr-2016 07:48:33 UTC] PHP   6. require_wp_db() /home/andreybolonin/www/healthyfood/wp-settings.php:88
+[15-Apr-2016 07:48:33 UTC] PHP   7. wpdb->__construct() /home/andreybolonin/www/healthyfood/wp-includes/load.php:371
+[15-Apr-2016 07:48:33 UTC] PHP   8. wpdb->db_connect() /home/andreybolonin/www/healthyfood/wp-includes/wp-db.php:658
+[15-Apr-2016 07:48:33 UTC] PHP   9. mysqli_real_connect() /home/andreybolonin/www/healthyfood/wp-includes/wp-db.php:1489
+[15-Apr-2016 11:52:44 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /home/andreybolonin/www/healthyfood/wp-includes/wp-db.php on line 1489
+[15-Apr-2016 11:52:44 UTC] PHP Stack trace:
+[15-Apr-2016 11:52:44 UTC] PHP   1. {main}() /home/andreybolonin/www/healthyfood/index.php:0
+[15-Apr-2016 11:52:44 UTC] PHP   2. require() /home/andreybolonin/www/healthyfood/index.php:17
+[15-Apr-2016 11:52:44 UTC] PHP   3. require_once() /home/andreybolonin/www/healthyfood/wp-blog-header.php:13
+[15-Apr-2016 11:52:44 UTC] PHP   4. require_once() /home/andreybolonin/www/healthyfood/wp-load.php:37
+[15-Apr-2016 11:52:44 UTC] PHP   5. require_once() /home/andreybolonin/www/healthyfood/wp-config.php:99
+[15-Apr-2016 11:52:44 UTC] PHP   6. require_wp_db() /home/andreybolonin/www/healthyfood/wp-settings.php:88
+[15-Apr-2016 11:52:44 UTC] PHP   7. wpdb->__construct() /home/andreybolonin/www/healthyfood/wp-includes/load.php:371
+[15-Apr-2016 11:52:44 UTC] PHP   8. wpdb->db_connect() /home/andreybolonin/www/healthyfood/wp-includes/wp-db.php:658
+[15-Apr-2016 11:52:44 UTC] PHP   9. mysqli_real_connect() /home/andreybolonin/www/healthyfood/wp-includes/wp-db.php:1489
